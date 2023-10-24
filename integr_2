@@ -1,0 +1,4 @@
+a=int(input())
+n=a//1000
+p=(a%1000)
+print(n,p)

@@ -1,0 +1,7 @@
+a=int(input())
+n=a//100
+p=((a%100))//10
+c=(a%10)
+k=n+p+c
+g=n*p*c
+print(k,g)

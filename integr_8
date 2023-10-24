@@ -1,0 +1,5 @@
+a=int(input())
+n=a//10
+p=a%10
+s=(p*10)+(n)
+print(s)
